@@ -1,0 +1,9 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'A1_mine.blg'
+[48] biber:340> INFO - === Tue Jun  8, 2021, 13:12:04
+[57] Biber.pm:415> INFO - Reading 'A1_mine.bcf'
+[101] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[105] Utils.pm:384> WARN - The file 'A1_mine.bcf' does not contain any citations!
+[110] bbl.pm:654> INFO - Writing 'A1_mine.bbl' with encoding 'UTF-8'
+[110] bbl.pm:757> INFO - Output to A1_mine.bbl
+[110] Biber.pm:128> INFO - WARNINGS: 1

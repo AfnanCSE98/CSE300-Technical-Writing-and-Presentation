@@ -1,0 +1,162 @@
+%TITLE, AUTHOR, DATE
+\documentclass[12pt, a4paper]{article} %14 pt indicates the font size of the prepared document
+\usepackage[margin=1in]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{multicol}
+\usepackage{multirow}
+\usepackage{color}
+\usepackage{enumerate}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{calligra}
+\usepackage{hyperref}
+
+%\usepackage{fontsize}
+%\changefontsize[16pt]{9pt}
+
+\title{CSE 300: Online Assignment}
+\author{Md Shamsuzzoha Bayzid$^{1,*}$, Mahjabin Nahar$^{1}$, Md Shariful Islam\\ Bhuyan$^{1}$, and Md Saidur Rahman$^{1}$ \\ \\
+	$^1$Department of Computer Science and Engineering \\
+	Bangladesh University of Engineering and Technology \\
+	*Corresponding author: shams bayzid@cse.buet.ac.bd \\
+	These authors contributed equally to this work
+}
+\date{April 2021}
+
+\begin{document}
+	\maketitle
+	\tableofcontents
+	\section{Introduction}
+This is the first online practice on LaTeX. \\
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit,
+vestibulum ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida
+mauris. Nam arcu libero, nonummy eget, consectetuer id, vulputate a, magna.
+Donec vehicula augue eu neque. Pellentesque habitant morbi tristique senectus
+et netus et malesuada fames ac turpis egestas. Mauris ut leo. Cras viverra
+metus rhoncus sem. Nulla et lectus vestibulum urna fringilla ultrices. Phasellus
+eu tellus sit amet tortor gravida placerat. Integer sapien est, iaculis in, pretium
+quis, viverra ac, nunc. Praesent eget sem vel leo ultrices bibendum. Aenean
+faucibus. Morbi dolor nulla, malesuada eu, pulvinar at, mollis ac, nulla. Cur-
+abitur auctor semper nulla. Donec varius orci eget risus. Duis nibh mi, congue
+eu, accumsan eleifend, sagittis quis, diam. Duis eget orci sit amet orci dignissim
+rutrum.
+
+\pagebreak
+	
+\section{Styling}
+We will do some styling in this section. Bold in 2.1, italic in 2.2 \& so on.
+
+\subsection{Bold}
+\textbf{Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus
+	elit, vestibulum ut, placerat ac, adipiscing vitae, felis. Curabitur dic-
+	tum gravida mauris. Nam arcu libero, nonummy eget, consectetuer
+	id, vulputate a, magna. Donec vehicula augue eu neque. Pellen-
+	tesque habitant morbi tristique senectus et netus et malesuada fames
+	ac turpis egestas. Mauris ut leo. Cras viverra metus rhoncus sem.
+	Nulla et lectus vestibulum urna fringilla ultrices. Phasellus eu tel-
+	lus sit amet tortor gravida placerat. Integer sapien est, iaculis in,
+	pretium quis, viverra ac, nunc. Praesent eget sem vel leo ultrices
+	bibendum. Aenean faucibus. Morbi dolor nulla, malesuada eu, pulv-
+	inar at, mollis ac, nulla. Curabitur auctor semper nulla. Donec varius
+	orci eget risus. Duis nibh mi, congue eu, accumsan eleifend, sagittis
+	quis, diam. Duis eget orci sit amet orci dignissim rutrum.
+}
+	
+	
+\subsection{Italic}
+\textit{Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibu-
+	lum ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris.
+	Nam arcu libero, nonummy eget, consectetuer id, vulputate a, magna. Donec
+	vehicula augue eu neque. Pellentesque habitant morbi tristique senectus et netus
+	et malesuada fames ac turpis egestas. Mauris ut leo. Cras viverra metus rhon-
+	cus sem. Nulla et lectus vestibulum urna fringilla ultrices. Phasellus eu tellus
+	sit amet tortor gravida placerat. Integer sapien est, iaculis in, pretium quis,
+	viverra ac, nunc. Praesent eget sem vel leo ultrices bibendum. Aenean faucibus.
+	Morbi dolor nulla, malesuada eu, pulvinar at, mollis ac, nulla. Curabitur auctor
+	semper nulla. Donec varius orci eget risus. Duis nibh mi, congue eu, accumsan
+	eleifend, sagittis quis, diam. Duis eget orci sit amet orci dignissim rutrum.
+}
+
+\subsection{Color}
+{\color{red}Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibu-
+	lum ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris.
+	Nam arcu libero, nonummy eget, consectetuer id, vulputate a, magna. Donec
+	vehicula augue eu neque. Pellentesque habitant morbi tristique senectus et netus
+	et malesuada fames ac turpis egestas. Mauris ut leo. Cras viverra metus rhon-
+	cus sem. Nulla et lectus vestibulum urna fringilla ultrices. Phasellus eu tellus
+	sit amet tortor gravida placerat. Integer sapien est, iaculis in, pretium quis,
+	viverra ac, nunc. Praesent eget sem vel leo ultrices bibendum. Aenean faucibus.
+	Morbi dolor nulla, malesuada eu, pulvinar at, mollis ac, nulla. Curabitur auctor
+	semper nulla. Donec varius orci eget risus. Duis nibh mi, congue \pagebreak eu, accumsan
+	eleifend, sagittis quis, diam. Duis eget orci sit amet orci dignissim rutrum.}
+	
+
+\subsection*{Use of special characters}	
+You can use special characters by preceding with \. Another package can be
+used named as “verbatim”. Example: \~ \! \$\#\@*
+
+\section{List}
+There are 3 kinds of list.
+\begin{description}
+	\item[i] ordered list
+	\item[ii] unordered list
+	\item[iii] description list
+\end{description}
+
+Let’s see an example of lists:\\
+\textbf{CSE 300} Technical writing\\
+\begin{itemize}
+	\item Online
+\end{itemize}
+\hspace{10mm}Presentation
+
+\textbf{CSE 305} Computer Architecture
+\begin{enumerate}
+	\item MIPS
+		\begin{description}
+			\item[i] commands
+			\item[ii] pipeline
+		\end{description}
+	\item Shared Memory
+\end{enumerate}
+	
+\textbf{CSE 309} Compiler
+
+\section{Table}
+For understanding the use of multi-row and multi-column command see the \\
+table 1
+
+	\begin{table}[h]
+		\centering
+		
+	\vspace{10mm}
+	\begin{tabular}{|c|c|c|c|}
+	\hline
+	\multirow{2}{*}{Dollar} & Rupee & taka & Euro\\ 
+	\cline{2-4}
+	
+	& 75 & 86 & 0.45 \\ \hline
+	
+	City & \multicolumn{3}{|c|}{\multirow{2}{*}{Dhaka} \hspace{11mm} BUET}   \\ \cline{1-1} \cline{4-4}
+	
+	Food & \multicolumn{2}{|c|}{} & Mosque \\ \hline
+	
+		\end{tabular}
+	\end{table}
+	\newpage
+	
+	\section{Figure}
+	In a document, we may need to import images at times. Let’s see how to do it.\\
+	See in page 4.
+	
+	\begin{figure}[h!]
+		%...
+		\centering
+		\includegraphics[scale=0.9]{lion.jpg}
+		\caption{Figure 1: Lion Logo
+		}
+	\end{figure}
+	
+	
+
+\end{document}
