@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.6.3)  3 JUN 2021 15:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.6.20)  24 JUL 2021 01:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -432,12 +432,12 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 3313 strings out of 481252
- 48479 string characters out of 5915889
- 351170 words of memory out of 5000000
- 20220 multiletter control sequences out of 15000+600000
+ 3313 strings out of 481176
+ 48479 string characters out of 5914226
+ 351415 words of memory out of 5000000
+ 20229 multiletter control sequences out of 15000+600000
  410724 words of font info for 53 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
+ 59 hyphenation exceptions out of 8191
  68i,10n,74p,386b,278s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar

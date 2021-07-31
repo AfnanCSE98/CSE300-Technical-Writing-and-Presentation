@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.6.3)  8 JUN 2021 16:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.6.20)  23 JUL 2021 23:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -480,24 +480,60 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--35
 
  []
 
+! Extra alignment tab has been changed to \cr.
+<template> }$\hfill \endtemplate 
+                                 
+l.42 	\end{split}
+                 
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<template> }$\hfill \endtemplate 
+                                 
+l.42 	\end{split}
+                 
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<template> }$\hfill \endtemplate 
+                                 
+l.42 	\end{split}
+                 
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<template> }$\hfill \endtemplate 
+                                 
+l.42 	\end{split}
+                 
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<Figure.pdf, id=37, 1038.52556pt x 810.90355pt>
+<Figure.pdf, id=38, 1038.52556pt x 810.90355pt>
 File: Figure.pdf Graphic file (type pdf)
 <use Figure.pdf>
-Package pdftex.def Info: Figure.pdf  used on input line 62.
+Package pdftex.def Info: Figure.pdf  used on input line 63.
 (pdftex.def)             Requested size: 113.24197pt x 88.42014pt.
 File: Figure.pdf Graphic file (type pdf)
 <use Figure.pdf>
-Package pdftex.def Info: Figure.pdf  used on input line 67.
+Package pdftex.def Info: Figure.pdf  used on input line 68.
 (pdftex.def)             Requested size: 113.24197pt x 88.42014pt.
 
-Overfull \vbox (1.19998pt too high) detected at line 114
+Overfull \vbox (1.19998pt too high) detected at line 115
  []
 
 
-Overfull \hbox (2.2937pt too wide) in paragraph at lines 87--122
+Overfull \hbox (2.2937pt too wide) in paragraph at lines 88--123
  [][] 
  []
 
@@ -506,12 +542,12 @@ Package rerunfilecheck Info: File `1705098.out' has not changed.
 (rerunfilecheck)             Checksum: AFF478BC785C354B9F44D4D69A56A521;261.
  ) 
 Here is how much of TeX's memory you used:
- 7832 strings out of 481252
- 124268 string characters out of 5915889
- 444361 words of memory out of 5000000
- 24637 multiletter control sequences out of 15000+600000
+ 7833 strings out of 481176
+ 124280 string characters out of 5914226
+ 444606 words of memory out of 5000000
+ 24646 multiletter control sequences out of 15000+600000
  411273 words of font info for 54 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
+ 59 hyphenation exceptions out of 8191
  71i,17n,77p,281b,399s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/afnan/.texlive2020/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600
 pk> </home/afnan/.texlive2020/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1440.60
@@ -525,10 +561,10 @@ ist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmsy8.pfb>
-Output written on 1705098.pdf (3 pages, 110052 bytes).
+Output written on 1705098.pdf (3 pages, 110326 bytes).
 PDF statistics:
- 112 PDF objects out of 1000 (max. 8388607)
- 89 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
+ 113 PDF objects out of 1000 (max. 8388607)
+ 90 compressed objects within 1 object stream
+ 12 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 

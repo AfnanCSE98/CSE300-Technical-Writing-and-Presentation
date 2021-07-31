@@ -1,9 +1,0 @@
-[0] Config.pm:311> INFO - This is Biber 2.16
-[0] Config.pm:314> INFO - Logfile is '1705098.blg'
-[50] biber:340> INFO - === Tue Jun  8, 2021, 14:23:57
-[59] Biber.pm:415> INFO - Reading '1705098.bcf'
-[103] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
-[107] Utils.pm:384> WARN - The file '1705098.bcf' does not contain any citations!
-[112] bbl.pm:654> INFO - Writing '1705098.bbl' with encoding 'UTF-8'
-[112] bbl.pm:757> INFO - Output to 1705098.bbl
-[113] Biber.pm:128> INFO - WARNINGS: 1
